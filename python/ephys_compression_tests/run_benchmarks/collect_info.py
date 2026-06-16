@@ -2,8 +2,8 @@ from typing import List, Dict, Any
 from ._memobin import construct_dataset_url, construct_reconstructed_url
 from ..types import Algorithm
 
-GITHUB_ALGORITHMS_PREFIX = "https://github.com/magland/ephys_compression_tests/blob/main/python/ephys_compression_tests/algorithms/"
-GITHUB_DATASETS_PREFIX = "https://github.com/magland/ephys_compression_tests/blob/main/python/ephys_compression_tests/datasets/"
+GITHUB_ALGORITHMS_PREFIX = "https://github.com/concept-collection/ephys_compression_tests/blob/main/python/ephys_compression_tests/algorithms/"
+GITHUB_DATASETS_PREFIX = "https://github.com/concept-collection/ephys_compression_tests/blob/main/python/ephys_compression_tests/datasets/"
 
 
 def collect_algorithm_info(algorithms: List[Dict[str, Algorithm]]) -> List[Dict[str, Any]]:

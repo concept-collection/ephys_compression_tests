@@ -178,7 +178,7 @@ export default function Home() {
           )}
           Released under{" "}
           <a
-            href="https://github.com/magland/ephys_compression_tests/blob/main/LICENSE"
+            href="https://github.com/concept-collection/ephys_compression_tests/blob/main/LICENSE"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#666", textDecoration: "underline" }}

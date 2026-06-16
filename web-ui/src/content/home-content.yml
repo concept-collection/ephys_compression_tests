@@ -34,7 +34,7 @@ sections:
     description:
       Explore the GitHub repository to view the source code, contribute to the
       project, or run your own benchmarks locally.
-    link: https://github.com/magland/ephys_compression_tests
+    link: https://github.com/concept-collection/ephys_compression_tests
     linkText: View on GitHub
     external: true
 
